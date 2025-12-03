@@ -1,0 +1,104 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/ContactView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Contact Us",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Message Sent",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "Get in Touch",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Contact Information",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send us a Message",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Your message here...",
+        "location": {
+          "startingColumn": 43,
+          "startingLine": 70
+        }
+      },
+      {
+        "comment": "",
+        "key": "Message",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 65
+        }
+      },
+      {
+        "comment": "",
+        "key": "Send Message",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 81
+        }
+      },
+      {
+        "comment": "",
+        "key": "Follow Us",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 98
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 113
+        }
+      },
+      {
+        "comment": "",
+        "key": "Thank you for contacting us. We'll get back to you soon!",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 117
+        }
+      }
+    ]
+  },
+  "version": 1
+}

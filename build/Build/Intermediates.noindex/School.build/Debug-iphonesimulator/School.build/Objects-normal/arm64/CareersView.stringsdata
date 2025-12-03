@@ -1,0 +1,232 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/CareersView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Careers",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Posted: %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 106
+        }
+      },
+      {
+        "comment": "",
+        "key": "Job Description",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requirements",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 165
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apply Now",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 187
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apply for %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 240
+        }
+      },
+      {
+        "comment": "",
+        "key": "Personal Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 217
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cover Letter",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 226
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 218
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 219
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone Number",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 222
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tell us why you're a great fit...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 227
+        }
+      },
+      {
+        "comment": "",
+        "key": "Submit Application",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 233
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 244
+        }
+      },
+      {
+        "comment": "",
+        "key": "Post Job Opening",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 301
+        }
+      },
+      {
+        "comment": "",
+        "key": "Job Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 275
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requirements",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 292
+        }
+      },
+      {
+        "comment": "",
+        "key": "Compensation",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Job Title",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "Department",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 277
+        }
+      },
+      {
+        "comment": "",
+        "key": "Location",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 278
+        }
+      },
+      {
+        "comment": "",
+        "key": "Job Type",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "Job Description",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 288
+        }
+      },
+      {
+        "comment": "",
+        "key": "Requirements (one per line)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salary Range",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 305
+        }
+      },
+      {
+        "comment": "",
+        "key": "Post",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 311
+        }
+      }
+    ]
+  },
+  "version": 1
+}

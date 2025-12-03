@@ -13,6 +13,12 @@ struct SchoolApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
             Item.self,
+            School.self,
+            Teacher.self,
+            NewsArticle.self,
+            Program.self,
+            Activity.self,
+            Career.self
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
@@ -25,7 +31,7 @@ struct SchoolApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CorporateHomeView()
         }
         .modelContainer(sharedModelContainer)
     }

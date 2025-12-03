@@ -1,0 +1,144 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/SchoolsListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Our Schools",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 53
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search schools...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 32
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Established %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Contact Information",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add School",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 252
+        }
+      },
+      {
+        "comment": "",
+        "key": "School Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Details",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 244
+        }
+      },
+      {
+        "comment": "",
+        "key": "School Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 235
+        }
+      },
+      {
+        "comment": "",
+        "key": "Address",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone Number",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 237
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 239
+        }
+      },
+      {
+        "comment": "",
+        "key": "Established Year",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 245
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 262
+        }
+      }
+    ]
+  },
+  "version": 1
+}

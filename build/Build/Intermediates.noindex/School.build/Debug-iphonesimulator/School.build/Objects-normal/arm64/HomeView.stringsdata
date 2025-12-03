@@ -1,0 +1,88 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/HomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "School Management",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 36
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome to Our School System",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Empowering Education with AI Technology",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Our Schools",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "View All",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "Est. %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "Latest News",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 140
+        }
+      },
+      {
+        "comment": "",
+        "key": "View All",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Links",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 205
+        }
+      },
+      {
+        "comment": "",
+        "key": "Chat with AI Assistant",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 255
+        }
+      }
+    ]
+  },
+  "version": 1
+}

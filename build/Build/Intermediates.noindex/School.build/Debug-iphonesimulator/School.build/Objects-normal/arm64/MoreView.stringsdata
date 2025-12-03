@@ -1,0 +1,48 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/MoreView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "More",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 50
+        }
+      },
+      {
+        "comment": "",
+        "key": "Engagement",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 14
+        }
+      },
+      {
+        "comment": "",
+        "key": "Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI Assistant",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Administration",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 44
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,32 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/ChatbotView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "AI Assistant",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Type your message...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Close",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 76
+        }
+      }
+    ]
+  },
+  "version": 1
+}

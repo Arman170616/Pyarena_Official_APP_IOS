@@ -1,0 +1,23 @@
+{
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/AdminLoginView.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/AdminLoginView.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/AdminLoginView.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/AdminLoginView.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/AdminLoginView.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/AdminLoginView.swiftdeps"
+  },
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/CareersView.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/CareersView.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/CareersView.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/CareersView.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/CareersView.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/CareersView.swiftdeps"
+  },
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/ChatbotView.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/ChatbotView.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/ChatbotView.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/ChatbotView.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/ChatbotView.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/ChatbotView.swiftdeps"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/CorporateHomeView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Programs",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Teachers",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "More",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 41
+        }
+      }
+    ]
+  },
+  "version": 1
+}

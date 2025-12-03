@@ -1,0 +1,23 @@
+{
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Models/NewsArticle.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/NewsArticle.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/NewsArticle.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/NewsArticle.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/NewsArticle.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/NewsArticle.swiftdeps"
+  },
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Models/Program.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Program.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Program.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Program.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Program.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Program.swiftdeps"
+  },
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Models/School.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/School.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/School.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/School.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/School.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/School.swiftdeps"
+  }
+}

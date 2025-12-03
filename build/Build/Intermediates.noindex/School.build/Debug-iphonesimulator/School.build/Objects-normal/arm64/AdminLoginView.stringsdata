@@ -1,0 +1,152 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/AdminLoginView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Admin Login",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Login Failed",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 94
+        }
+      },
+      {
+        "comment": "",
+        "key": "Admin Panel",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 27
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter your credentials to access the admin panel",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Username",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "Password",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Login",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 64
+        }
+      },
+      {
+        "comment": "",
+        "key": "Access Levels:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "OK",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 95
+        }
+      },
+      {
+        "comment": "",
+        "key": "Invalid username or password. Please try again.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "Dashboard",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 185
+        }
+      },
+      {
+        "comment": "",
+        "key": "Admin Dashboard",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 147
+        }
+      },
+      {
+        "comment": "",
+        "key": "Welcome to the Admin Panel",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 151
+        }
+      },
+      {
+        "comment": "",
+        "key": "Quick Actions",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 163
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage Schools",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Manage Users",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 170
+        }
+      },
+      {
+        "comment": "",
+        "key": "System Settings",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reports",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 178
+        }
+      }
+    ]
+  },
+  "version": 1
+}

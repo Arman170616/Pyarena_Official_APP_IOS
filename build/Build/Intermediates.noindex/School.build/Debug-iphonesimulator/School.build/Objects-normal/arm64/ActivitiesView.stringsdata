@@ -1,0 +1,112 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/ActivitiesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Activities",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "About",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 157
+        }
+      },
+      {
+        "comment": "",
+        "key": "Register for Activity",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 179
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Activity",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 251
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activity Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 234
+        }
+      },
+      {
+        "comment": "",
+        "key": "Details",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 246
+        }
+      },
+      {
+        "comment": "",
+        "key": "Title",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 235
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 236
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 239
+        }
+      },
+      {
+        "comment": "",
+        "key": "Schedule (e.g., Mon-Fri 4-6 PM)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Location",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 261
+        }
+      }
+    ]
+  },
+  "version": 1
+}

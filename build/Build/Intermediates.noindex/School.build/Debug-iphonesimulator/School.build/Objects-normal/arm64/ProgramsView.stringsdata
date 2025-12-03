@@ -1,0 +1,120 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/ProgramsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Programs",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 59
+        }
+      },
+      {
+        "comment": "",
+        "key": "Program Details",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 202
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enroll Now",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 191
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Program",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 261
+        }
+      },
+      {
+        "comment": "",
+        "key": "Program Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 247
+        }
+      },
+      {
+        "comment": "",
+        "key": "Details",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 253
+        }
+      },
+      {
+        "comment": "",
+        "key": "Program Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 248
+        }
+      },
+      {
+        "comment": "",
+        "key": "Description",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 249
+        }
+      },
+      {
+        "comment": "",
+        "key": "Duration (e.g., 1 Year)",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 254
+        }
+      },
+      {
+        "comment": "",
+        "key": "Age Group",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 255
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fee",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 256
+        }
+      },
+      {
+        "comment": "",
+        "key": "Curriculum",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 258
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 265
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 271
+        }
+      }
+    ]
+  },
+  "version": 1
+}

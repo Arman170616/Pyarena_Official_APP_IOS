@@ -1,0 +1,23 @@
+{
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Helpers/SampleData.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/SampleData.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/SampleData.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/SampleData.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/SampleData.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/SampleData.swiftdeps"
+  },
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Models/Activity.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Activity.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Activity.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Activity.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Activity.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Activity.swiftdeps"
+  },
+  "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Models/Career.swift" : {
+    "const-values" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Career.swiftconstvalues",
+    "dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Career.d",
+    "diagnostics" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Career.dia",
+    "object" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Career.o",
+    "swift-dependencies" : "/Users/futureinnvo/Desktop/IOS/School_App/School/build/Build/Intermediates.noindex/School.build/Debug-iphonesimulator/School.build/Objects-normal/arm64/Career.swiftdeps"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/NewsListView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "News & Updates",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share Article",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 125
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add News Article",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Article Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 155
+        }
+      },
+      {
+        "comment": "",
+        "key": "Content",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 169
+        }
+      },
+      {
+        "comment": "",
+        "key": "Title",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 156
+        }
+      },
+      {
+        "comment": "",
+        "key": "Category",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 158
+        }
+      },
+      {
+        "comment": "",
+        "key": "Author",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 164
+        }
+      },
+      {
+        "comment": "",
+        "key": "Published Date",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 166
+        }
+      },
+      {
+        "comment": "",
+        "key": "Article Content",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 170
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Publish",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 184
+        }
+      }
+    ]
+  },
+  "version": 1
+}

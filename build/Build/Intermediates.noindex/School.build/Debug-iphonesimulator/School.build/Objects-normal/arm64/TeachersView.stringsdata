@@ -1,0 +1,152 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/TeachersView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Teachers Portfolio",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 85
+        }
+      },
+      {
+        "comment": "",
+        "key": "Search teachers...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 46
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld years",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 128
+        }
+      },
+      {
+        "comment": "",
+        "key": "Biography",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 178
+        }
+      },
+      {
+        "comment": "",
+        "key": "Contact Information",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 195
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Teacher",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 293
+        }
+      },
+      {
+        "comment": "",
+        "key": "Basic Information",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 272
+        }
+      },
+      {
+        "comment": "",
+        "key": "Biography",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 280
+        }
+      },
+      {
+        "comment": "",
+        "key": "Contact",
+        "location": {
+          "startingColumn": 25,
+          "startingLine": 285
+        }
+      },
+      {
+        "comment": "",
+        "key": "Full Name",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 273
+        }
+      },
+      {
+        "comment": "",
+        "key": "Subject",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 274
+        }
+      },
+      {
+        "comment": "",
+        "key": "Qualification",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 275
+        }
+      },
+      {
+        "comment": "",
+        "key": "Years of Experience",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 276
+        }
+      },
+      {
+        "comment": "",
+        "key": "Bio",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 281
+        }
+      },
+      {
+        "comment": "",
+        "key": "Email",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "Phone Number",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 289
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 303
+        }
+      }
+    ]
+  },
+  "version": 1
+}

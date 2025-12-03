@@ -1,0 +1,40 @@
+{
+  "source": "/Users/futureinnvo/Desktop/IOS/School_App/School/School/Views/Corporate/AboutView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "About Us",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "Our Values",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 37
+        }
+      },
+      {
+        "comment": "",
+        "key": "Our Impact",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Leadership Team",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 159
+        }
+      }
+    ]
+  },
+  "version": 1
+}
