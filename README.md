@@ -1,4 +1,4 @@
-# School Management System - iOS App
+i# School Management System - iOS App
 
 ## Overview
 An AI-powered school management system built with SwiftUI and SwiftData. This app provides a comprehensive corporate website section for managing multiple schools, programs, teachers, activities, news, and careers.
